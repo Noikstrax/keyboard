@@ -1,3 +1,5 @@
+// Package keyboard reads user input from keyboard.
+
 package keyboard
 
 import (
